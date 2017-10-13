@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(October 13th, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Cellina Danvers)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment, we were asked to declare 3 new variables and manipulate them to the program given)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+(https://csd15.github.io/lesson4_javascript1/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. The concepts of arrays, if/ else if, and switch
+2. Indexes
+3. How the document.getElementById operator works- looks for a specific node.
 
